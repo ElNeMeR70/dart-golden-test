@@ -1,0 +1,5 @@
+name: dart_golden_test
+description: Golden file testing with pixel diff comparison
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
